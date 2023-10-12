@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Coba</title>
+    <title>Coba DERET</title>
   </head>
   <body>
     <?php 
